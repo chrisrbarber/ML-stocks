@@ -4,15 +4,9 @@ Created on Fri Feb 23 18:10:29 2018
 
 @author: Topher
 """
-
+#try to predict stock prices with machine learning
 #do it with an LSTM - long short term memory NN - apparently good for time series prediction
 
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 23 12:53:37 2018
-
-@author: Topher
-"""
 
 # load and plot dataset
 from pandas import read_csv
